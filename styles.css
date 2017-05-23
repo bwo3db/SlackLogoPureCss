@@ -1,0 +1,42 @@
+.maj-cont{
+   width:2000px;
+   height:2000px;
+   position:relative;
+}
+
+.maj-cont div{
+   position:absolute;
+}
+
+.bottom{
+   height:30%;
+}
+
+.tops{
+   width:30%;
+}
+
+.blue{
+   position:absolute;
+   background-color:rgba(114,197,205,.5);
+   top:0;
+
+}
+
+.red{
+   position:absolute;
+   background-color:rgba(206,30,91,.5);
+   bottom:0;
+}
+
+.green{
+   position:absolute;
+   background-color:rgba(60,177,135,1);
+   left:0;
+}
+
+.yellow{
+   position:absolute;
+   background-color:rgba(223,162,47,1);
+   right:0;
+}
